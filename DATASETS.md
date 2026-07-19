@@ -8,5 +8,5 @@ STARE Dataset
 Structured Analysis of the Retina (STARE)
 Source: https://cecas.clemson.edu/~ahoover/stare/
 
-## Note
-## The datasets are not included in this repository due to GitHub file size limitations and dataset access restrictions. Please obtain the datasets from their respective official sources.
+Note
+The datasets are not included in this repository due to GitHub file size limitations and dataset access restrictions. Please obtain the datasets from their respective official sources.
